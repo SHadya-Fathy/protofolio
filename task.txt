@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Amgad's Portfolio</title>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <a href="#about">About</a> |
+        <a href="#skills">Skills</a> |
+        <a href="#projects">Projects</a> |
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! My name is Amgad Nady. I am a passionate web development student.</p>
+        <blockquote>
+            "Learning never exhausts the mind." &mdash; Leonardo da Vinci
+        </blockquote>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills">
+        <h2>My Skills:</h2>
+        <ul>
+            <li>HTML - Intermediate</li>
+            <li>CSS - Beginner</li>
+            <li>JavaScript - Beginner</li>
+            <li>Problem Solving</li>
+            <li>Teamwork</li>
+        </ul>
+    </section>
+</body>
+</html>
